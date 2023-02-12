@@ -1,0 +1,8 @@
+input{
+    display: block;
+}
+#container{
+
+    width:200px;
+    background-color: #1abc9c;
+}
